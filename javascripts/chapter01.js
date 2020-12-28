@@ -11,6 +11,7 @@ console.log(sum);
 
 console.log('こんにちは', '現在', new Date(), 'です');
 
+<<<<<<< HEAD
 
 // --------------------------
 // ch1-5 四則演算
@@ -25,6 +26,8 @@ console.log(2 ** 3); //8
 
 
 
+=======
+>>>>>>> 2554e0a26c7d17ea9b3f5ddbec38c93c96cbdb54
 // --------------------------
 // ch1-6 変数(let)を使いたい
 // --------------------------
@@ -51,3 +54,7 @@ console.log(fullName); // 結果：鈴木太郎
 let value1 = 100;
 let value2 = value1;
 console.log(value2); // 結果：100（value1と同じ）
+<<<<<<< HEAD
+=======
+
+>>>>>>> 2554e0a26c7d17ea9b3f5ddbec38c93c96cbdb54
